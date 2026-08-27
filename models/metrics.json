@@ -1,0 +1,7 @@
+{
+  "mae_million_toman": 52.29,
+  "rmse_million_toman": 90.86,
+  "r2": 0.9754,
+  "cv_r2_mean": 0.9714,
+  "cv_r2_std": 0.0028
+}
